@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145484258938",
+    "project_id": "trainschool-e9029",
+    "storage_bucket": "trainschool-e9029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145484258938:android:d2e0b90c96d8e0fae0a5c3",
+        "android_client_info": {
+          "package_name": "com.example.trainschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDci1ZOoIohcRCyKadvIe-SKrth6gzW_bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
